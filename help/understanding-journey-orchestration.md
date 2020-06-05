@@ -39,7 +39,7 @@ ht-degree: 0%
 
 1. [設定串流事件](/help/configuring-journey-orchestration/configure-streaming-events.md) -此設定為必要，因 [!UICONTROL Journey Orchestration] 為是用來監聽事件。
 2. [設定資料來源](/help/configuring-journey-orchestration/configure-data-sources.md) -如果您的歷程僅使用來自事件裝載的本機資料，則不需要此設定。
-3. [設定自訂動作](/help/configuring-journey-orchestration/configure-actions.md): 如果您想要使用來自任何第三方供應商的服務，而該服務可透過具有JSON格式裝載的 [!DNL REST API] 裝置呼叫，則此為必要
+3. [設定自訂動作](/help/configuring-journey-orchestration/configure-actions.md): 如果您想要使用來自任何第三方供應商的服務，而可透過具有JSON格式裝載的裝置呼叫， [!DNL REST API] 則此為必要項
 
 >[!NOTE]
 >這些配置步驟需要技術知識。 您需要熟悉 [Experience Data Model(XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html))以及 [如何構成XDM體驗事件結構](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)。
