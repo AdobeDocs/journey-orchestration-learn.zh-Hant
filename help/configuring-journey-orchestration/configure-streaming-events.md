@@ -9,7 +9,7 @@ audience: developer
 doc-type: video
 activity: setup
 translation-type: tm+mt
-source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
+source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -27,6 +27,7 @@ ht-degree: 0%
 [!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 會透過Adobe Experience Platform傳送 [!UICONTROL streaming ingestion]。
 
 >[!NOTE]
+>
 >您需要熟悉：
 >
 >* [體驗資料模型(XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
@@ -38,8 +39,6 @@ ht-degree: 0%
 >
 >* [Adobe Experience Platform Mobile SDK —— 啟動](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)
->
-
 
 
 ## How to configure [!UICONTROL streaming events]
