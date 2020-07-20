@@ -9,7 +9,7 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: df5c132a8e66a9e9d2c8e7a2cf299a6a6a3527b7
+source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 # 將步驟事件報告至 [!UICONTROL Adobe Experience Platform ]
 
 [!UICONTROL Journey Orchestration] 自動將歷程績效資料傳送 [!UICONTROL Adobe Experience Platform] 至，以便與其他資料結合以進行分析。
-下面的影片將說 [!UICONTROL journey step events] 明自動建 [!UICONTROL data steps] 立的內容，以 [!UICONTROL Experience Platform ]及如何探索這些內容。
+下面的影片將說 [!UICONTROL journey step events] 明自動建立 [!UICONTROL data steps] 的內容，以及 [!UICONTROL Experience Platform] 如何探索這些內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
