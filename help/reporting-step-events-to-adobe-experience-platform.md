@@ -1,6 +1,6 @@
 ---
 title: '向Adobe Experience Platform報告體驗階段活動 '
-description: 本教學課程說明如何導覽至您歷程的報表、如何自訂報表的日期範圍，以及如何儲存報表範本以供日後使用。
+description: 以下視訊將說明哪些歷程步驟事件，以及在Experience Platform上自動建立哪些資料步驟，以及如何探索這些步驟。
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 1%
+source-wordcount: '99'
+ht-degree: 6%
 
 ---
 
