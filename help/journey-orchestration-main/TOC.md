@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-lear
 getting-started-title: 說明中心
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: df5c132a8e66a9e9d2c8e7a2cf299a6a6a3527b7
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '80'
 ht-degree: 5%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 5%
 + [概觀](/help/overview.md)
 + [瞭解歷程協調](/help/understanding-journey-orchestration.md)
 + [設定串流事件](/help/configuring-journey-orchestration/configure-streaming-events.md)
++ [使用區段資格事件](help/using-segment-qualification-events.md)
 + [設定資料來源](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [設定動作](/help/configuring-journey-orchestration/configure-actions.md)
 + [創造歷程](/help/create-a-journey.md)
