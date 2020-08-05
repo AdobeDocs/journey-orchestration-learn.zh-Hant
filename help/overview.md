@@ -3,7 +3,7 @@ title: 歷程協調教學課程——總覽
 description: 歷程協調功能可讓您利用事件或資料來源中儲存的情境式資料，建立即時協調使用案例
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 * **[向Adobe Experience Platform報告體驗階段活動](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
    *瞭解哪些歷程步驟事件，以及哪些資料步驟會在Experience Platform上自動建立，以及如何探索這些步驟。*
-* **[使用區段資格事件](help/using-segment-qualification-events.md)**   <br>
+* **[使用區段資格事件](/help/using-segment-qualification-events.md)**   <br>
    *本影片簡要介紹如何以「區段資格」事件做為進入或退出點來建立歷程。*
 
 ## 員工挑選
