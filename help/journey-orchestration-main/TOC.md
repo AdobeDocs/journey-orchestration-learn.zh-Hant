@@ -1,32 +1,32 @@
 ---
 product: journey orchestration
-user-guide-title: 歷程協調教學課程
+user-guide-title: Journey Orchestration 教學課程
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
-solution-title: Experience League
+solution-title: 體驗大聯盟
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
 tutorials-title: 教學課程
-tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
-getting-started-title: 說明中心
-getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
+tutorials-url: https://docs.adobe.com/content/help/zh-Hant/journey-orchestration-learn/tutorials/overview.html
+getting-started-title: 協助中心
+getting-started-url: https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
 source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 95%
 
 ---
 
 
-# 歷程協調教學課程 {#tutorials}
+# Journey Orchestration 教學課程 {#tutorials}
 
 + [概觀](/help/overview.md)
-+ [瞭解歷程協調](/help/understanding-journey-orchestration.md)
++ [瞭解 Journey Orchestration](/help/understanding-journey-orchestration.md)
 + [設定串流事件](/help/configuring-journey-orchestration/configure-streaming-events.md)
 + [使用區段資格事件](/help/using-segment-qualification-events.md)
 + [設定資料來源](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [設定動作](/help/configuring-journey-orchestration/configure-actions.md)
-+ [創造歷程](/help/create-a-journey.md)
++ [建立歷程](/help/create-a-journey.md)
 + [驗證並發佈歷程](/help/validate-and-publish-a-journey.md)
 + [透過報告工具分析歷程](/help/analyze-a-journey-via-reporting-tools.md)
-+ [向Adobe Experience Platform報告體驗階段活動](/help/reporting-step-events-to-adobe-experience-platform.md)
-+ [如何透過歷程協調尋找協助](/help/how-to-find-help-with-journey-orchestration.md)
++ [向 Adobe Experience Platform 報告歷程階段事件](/help/reporting-step-events-to-adobe-experience-platform.md)
++ [如何透過 Journey Orchestration 尋求協助](/help/how-to-find-help-with-journey-orchestration.md)
