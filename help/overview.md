@@ -3,7 +3,7 @@ title: Journey Orchestration – 概觀
 description: Journey Orchestration 可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
+source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 80%
@@ -17,7 +17,7 @@ ht-degree: 80%
 
 ## 新增功能
 
-* **[向 Adobe Experience Platform 報告歷程階段事件](/help/how-to-find-help-with-journey-orchestration.md)**
+* **[向 Adobe Experience Platform 報告歷程階段事件](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
    *瞭解哪些歷程步驟事件，以及哪些資料步驟會在Experience Platform上自動建立，以及如何探索這些步驟。*
