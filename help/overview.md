@@ -75,5 +75,5 @@ ht-degree: 100%
 ## 其他資源
 
 * [Journey Orchestration 協助中心](https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform 教學課程](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Adobe Experience Platform 教學課程](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/overview.html)
 
