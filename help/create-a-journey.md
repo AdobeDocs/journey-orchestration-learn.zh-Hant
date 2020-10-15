@@ -8,9 +8,9 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 使用 [!UICONTROL Orchestration] 控制項來控制歷程的流程及時間
 * 使用動作來參與歷程中的各個時間點。
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
 ## 其他資源
 
