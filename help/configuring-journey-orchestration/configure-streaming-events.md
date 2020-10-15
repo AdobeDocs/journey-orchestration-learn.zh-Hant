@@ -1,6 +1,6 @@
 ---
 title: 為Adobe Journey Orchestration設定串流活動
-description: 本視訊說明如何為「歷程協調」事件設定XDM架構和資料集、在「歷程協調」中定義事件，以及設定來源系統以串流事件
+description: 此影片說明如何為 Journey Orchestration 事件設定 XDM 結構描述和資料集，在 Journey Orchestration 中定義事件，以及設定來源系統以串流事件
 feature: Journey Orchestration
 topics: Events
 kt: 3731
@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
 
@@ -37,8 +37,8 @@ ht-degree: 0%
 >
 若要瞭解影片中使用的範例，您也應熟悉下列Adobe Experience Platform Services:
 >
->* [Adobe Experience Platform Mobile SDK —— 啟動](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)
+>* [Adobe Experience Platform Mobile SDK – 啟動](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+>* [Adobe Experience Platform 位置服務](https://docs.adobe.com/content/help/zh-Hant/places/using/home.html)
 
 
 ## How to configure [!UICONTROL streaming events]
@@ -53,5 +53,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [歷程協調說明中心](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+* [Journey Orchestration 協助中心](https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html)：
    * [關於事件](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
