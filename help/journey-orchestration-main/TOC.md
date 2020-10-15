@@ -1,7 +1,7 @@
 ---
 product: journey orchestration
 user-guide-title: Journey Orchestration 教學課程
-user-guide-description: Learn how to configure, create, publish, and analyze a journey.
+user-guide-description: 瞭解如何設定、建立、發佈及分析歷程。
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: 體驗大聯盟
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hant/journey-orchestration
 getting-started-title: 協助中心
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html
 type: Tutorial
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7c975de38ccd3ab724bafd8d53118eb092b844fe
-workflow-type: ht
-source-wordcount: '80'
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
