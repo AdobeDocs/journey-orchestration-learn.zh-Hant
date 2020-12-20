@@ -8,9 +8,9 @@ thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL Journey Orchestration] 自動將歷程績效資料傳送至 [!UICONTROL Adobe Experience Platform]，以便與其他資料結合而進行分析。下面的影片將說明 [!UICONTROL journey step events] 的內容、會在 [!UICONTROL Experience Platform] 上自動建立哪些 [!UICONTROL data steps]，以及如何探索這些內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
 ## 其他資源
 
