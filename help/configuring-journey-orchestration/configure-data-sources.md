@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 3%
+ht-degree: 12%
 
 ---
 
@@ -28,11 +28,11 @@ ht-degree: 3%
 
 如果您的旅程僅利用來自事件裝載的本機資料，則不需要此設定。
 
-以下影片說明如何： 設定Experience Platform資料來源和外部資料來源，以及如何在旅程中尋找和使用資料。
+以下影片說明如何：設定Experience Platform資料來源和外部資料來源，以及如何在旅程中尋找和使用資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
 ## 其他資源
 
-* [歷程協調說明中心](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+* [Journey Orchestration 協助中心](https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html)：
    * [關於資料來源](https://docs.adobe.com/content/help/en/journeys/using/data-source-journeys/about-data-sources.html)
