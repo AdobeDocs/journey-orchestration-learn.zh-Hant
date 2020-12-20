@@ -19,12 +19,12 @@ ht-degree: 36%
 
 # 設定串流事件
 
-[!UICONTROL Journey Orchestration] 傾聽活動，並根據這些活動策劃客戶歷程中最佳的下一步行動。 事件可與：
+[!UICONTROL Journey Orchestration] 傾聽活動，並根據這些活動策劃客戶歷程中最佳的下一步行動。事件可與：
 
 * 個人的直接動作（例如購買產品、造訪商店或放棄線上購物車），或
 * 發生與個人有關的事（例如，他們達到10,000個忠誠點）
 
-[!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 會透過Adobe Experience Platform傳送 [!UICONTROL streaming ingestion]。
+[!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 會透過傳送至Adobe Experience Platform  [!UICONTROL streaming ingestion]。
 
 >[!NOTE]
 >
@@ -41,12 +41,12 @@ ht-degree: 36%
 >* [Adobe Experience Platform 位置服務](https://docs.adobe.com/content/help/zh-Hant/places/using/home.html)
 
 
-## How to configure [!UICONTROL streaming events]
+## 如何配置[!UICONTROL streaming events]
 
 以下影片說明如何：
 
-* 為事件配置XDM模式和數 [!UICONTROL Journey Orchestration] 據集
-* 在 [!UICONTROL Journey Orchestration]
+* 為[!UICONTROL Journey Orchestration]事件配置XDM模式和資料集
+* 在[!UICONTROL Journey Orchestration]中定義事件
 * 配置源系統以流化事件
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
