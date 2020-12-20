@@ -8,9 +8,9 @@ thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 此影片簡要介紹如何設定區段，以及如何在歷程中設定區段資格事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
 ## 其他資源
 
