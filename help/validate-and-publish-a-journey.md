@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 26%
 
 ---
 
@@ -23,13 +23,13 @@ ht-degree: 4%
 
 以下影片說明如何：
 
-* 啟用並使 **[!UICONTROL test mode]** 用以驗證歷程
+* 啟用並使用&#x200B;**[!UICONTROL test mode]**&#x200B;來驗證旅程
 * 發佈歷程並管理其狀態
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
 
 ## 其他資源
 
-* [歷程協調說明中心](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+* [Journey Orchestration 協助中心](https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html)：
    * [測試歷程](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeytesting.html)
    * [發佈歷程](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeypublication.html)
