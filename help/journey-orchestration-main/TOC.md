@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hant/journey-orchestration
 getting-started-title: 協助中心
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,9 @@ ht-degree: 100%
 + [使用區段資格事件](/help/using-segment-qualification-events.md)
 + [設定資料來源](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [設定動作](/help/configuring-journey-orchestration/configure-actions.md)
-+ [建立歷程](/help/create-a-journey.md)
++ 建立歷程 {#building-a-journey}
+   + [建立歷程](/help/building-a-journey/creating-a-journey.md)
+   + [跳到另一段旅程](/help/building-a-journey/jumping-to-another-journey.md)
 + [驗證並發佈歷程](/help/validate-and-publish-a-journey.md)
 + [透過報告工具分析歷程](/help/analyze-a-journey-via-reporting-tools.md)
 + [向 Adobe Experience Platform 報告歷程階段事件](/help/reporting-step-events-to-adobe-experience-platform.md)
