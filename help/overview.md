@@ -3,7 +3,7 @@ title: Journey Orchestration – 概觀
 description: Journey Orchestration 可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 93%
@@ -40,11 +40,11 @@ ht-degree: 93%
     <p>
   </td>
   <td>
-    <a href="./create-a-journey.md">
+    <a href="./building-a-journey/creating-a-journey.md">
         <img alt="建立歷程（影片）" src="./assets/journey34.png"/>
     </a>
     <div>
-      <a href="./create-a-journey.md">
+      <a href="./building-a-journey/creating-a-journey.md">
     <strong>建立歷程（影片）</strong>
     </a>
     </div>
