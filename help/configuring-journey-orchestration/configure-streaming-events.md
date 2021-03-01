@@ -1,5 +1,5 @@
 ---
-title: 為Adobe Journey Orchestration設定串流活動
+title: 設定串流事件以進行AdobeJourney Orchestration
 description: 此影片說明如何為 Journey Orchestration 事件設定 XDM 結構描述和資料集，在 Journey Orchestration 中定義事件，以及設定來源系統以串流事件
 feature: Journey Orchestration
 topics: Events
@@ -11,7 +11,7 @@ activity: setup
 translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '255'
 ht-degree: 36%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 36%
 * 個人的直接動作（例如購買產品、造訪商店或放棄線上購物車），或
 * 發生與個人有關的事（例如，他們達到10,000個忠誠點）
 
-[!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 會透過傳送至Adobe Experience Platform  [!UICONTROL streaming ingestion]。
+[!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 會透過傳送至Adobe Experience Platform [!UICONTROL streaming ingestion]。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 36%
 >* [串流資料擷取](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
-若要瞭解影片中使用的範例，您也應熟悉下列Adobe Experience Platform Services:
+若要瞭解影片中使用的範例，您也應熟悉下列Adobe Experience Platform服務：
 >
 >* [Adobe Experience Platform Mobile SDK – 啟動](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform 位置服務](https://docs.adobe.com/content/help/zh-Hant/places/using/home.html)
