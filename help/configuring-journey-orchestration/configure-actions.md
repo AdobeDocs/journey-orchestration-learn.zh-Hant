@@ -1,15 +1,16 @@
 ---
-title: 設定Adobe歷程協調的動作
-description: 影片說明如何設定「歷程協調動作」，以及如何在歷程中使用它。
-feature: Journey Orchestration
+title: 配置AdobeJourney Orchestration的操作
+description: 瞭解如何設定Journey Orchestration動作，以及如何在歷程中使用動作。
+feature: 動作
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
+role: 管理員
 translation-type: tm+mt
-source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
+source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 12%
