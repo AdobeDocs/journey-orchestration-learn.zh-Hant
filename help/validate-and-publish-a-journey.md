@@ -1,18 +1,19 @@
 ---
 title: 驗證並發佈歷程
-description: 您可以使用測試設定檔，在發佈前測試您的歷程。 這可讓您分析個人在歷程中的流程，並在發佈前進行疑難排解。
-feature: Journey Orchestration
+description: 「瞭解如何使用測試設定檔，在發佈前測試您的旅程。 」
+feature: 旅程
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
+role: 業務從業人員、管理員
 translation-type: tm+mt
-source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 26%
+source-wordcount: '112'
+ht-degree: 28%
 
 ---
 
