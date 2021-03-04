@@ -1,18 +1,19 @@
 ---
 title: 設定串流事件以進行AdobeJourney Orchestration
-description: 此影片說明如何為 Journey Orchestration 事件設定 XDM 結構描述和資料集，在 Journey Orchestration 中定義事件，以及設定來源系統以串流事件
-feature: Journey Orchestration
+description: 「瞭解如何為Journey Orchestration事件配置XDM架構和資料集、定義Journey Orchestration中的事件，以及配置源系統以流化事件」
+feature: 資料來源、事件、結構
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
+role: 管理員
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 36%
+source-wordcount: '256'
+ht-degree: 25%
 
 ---
 
