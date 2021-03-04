@@ -1,18 +1,19 @@
 ---
 title: 使用區段資格事件
-description: 此影片簡要介紹如何設定區段，以及如何在歷程中設定區段資格事件。
-feature: Journey Orchestration
+description: 瞭解如何設定區段，以及如何在歷程中設定區段資格事件。
+feature: 區段、事件
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
+role: 業務從業人員、管理員
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '137'
+ht-degree: 84%
 
 ---
 
