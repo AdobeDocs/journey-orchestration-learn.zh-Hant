@@ -2,11 +2,12 @@
 title: Journey Orchestration – 概觀
 description: Journey Orchestration 可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 products: Journey orchestration
-translation-type: ht
-source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
-workflow-type: ht
-source-wordcount: '203'
-ht-degree: 100%
+role: 業務從業人員、管理員
+translation-type: tm+mt
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+workflow-type: tm+mt
+source-wordcount: '206'
+ht-degree: 98%
 
 ---
 
