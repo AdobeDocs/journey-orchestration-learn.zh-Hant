@@ -1,18 +1,19 @@
 ---
 title: 瞭解 Journey Orchestration
-description: 瞭解 Journey Orchestration 的概念、其所啟用的使用案例類型，以及 Journey Orchestration 運作方式的關鍵要素。
-feature: Journey Orchestration
+description: 「瞭解Journey Orchestration的概念、它啟用的使用案例類型，以及Journey Orchestration運作方式的關鍵要素。」
+feature: 概觀
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
+role: 業務從業人員、管理員
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 100%
+source-wordcount: '330'
+ht-degree: 92%
 
 ---
 
