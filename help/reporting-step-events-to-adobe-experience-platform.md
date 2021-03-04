@@ -1,18 +1,19 @@
 ---
 title: '向 Adobe Experience Platform 報告歷程階段事件 '
-description: 下列影片說明哪些歷程步驟事件，以及哪些資料步驟會在 Experience Platform 上自動建立，以及如何探索這些步驟。
-feature: Journey Orchestration
+description: 瞭解哪些歷程步驟事件、哪些資料步驟以及如何探索它們。
+feature: 旅程
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
+role: 業務從業人員、管理員
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 78%
 
 ---
 
