@@ -4,10 +4,10 @@ description: Journey Orchestration 可讓您善用儲存在事件或資料來源
 products: Journey orchestration
 role: 業務從業人員、管理員
 translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 98%
+source-wordcount: '209'
+ht-degree: 97%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
 
 ## 新增功能
 
+* **[更新描述檔動作](/help/building-a-journey/update-profile-action.md)**
 * **[跳到另一段歷程](/help/building-a-journey/jumping-to-another-journey.md)**
-
    <br>
    *瞭解如何將個人從一個歷程推向另一個歷程。*
 
