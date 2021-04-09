@@ -1,6 +1,6 @@
 ---
 title: 透過報告工具分析歷程
-description: 「瞭解如何導覽至您歷程的報表、如何自訂報表的日期範圍，以及如何儲存報表範本以供日後使用。」
+description: 「瞭解如何導覽至進行您的歷程報告、如何自訂報告的日期範圍，以及如何儲存報告範本以供日後使用。」
 feature: 報告
 topics: Introduction
 kt: 2777
@@ -8,15 +8,15 @@ thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-role: 業務從業人員、管理員
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+role: 商業從業人員、管理員
+exl-id: f6f13fba-d815-424f-86e5-918577609882
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
-
 
 # 透過報告工具分析歷程
 
