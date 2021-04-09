@@ -1,19 +1,19 @@
 ---
 title: 瞭解 Journey Orchestration
-description: 「瞭解Journey Orchestration的概念、它啟用的使用案例類型，以及Journey Orchestration運作方式的關鍵要素。」
-feature: 概觀
+description: 「瞭解 Journey Orchestration 的概念、所啟用的使用案例類型，以及 Journey Orchestration 運作方式的關鍵元素。」
+feature: 概覽
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: 業務從業人員、管理員
-translation-type: tm+mt
+role: 商業從業人員、管理員
+translation-type: ht
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '330'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->需要技術知識，才能執行這些設定步驟。您需要熟悉[體驗資料模型 (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)，以及熟悉[如何組成 XDM 體驗事件架構](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)。
+>需要技術知識，才能執行這些設定步驟。您需要熟悉[體驗資料模型 (XDM)](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)，以及熟悉[如何組成 XDM 體驗事件架構](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)。
 
 ## 如何建立、發佈和分析歷程
 
@@ -55,7 +55,7 @@ ht-degree: 92%
 ## 其他資源
 
 * [Journey Orchestration 協助中心](https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform 教學課程](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Adobe Experience Platform 教學課程](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/overview.html)
 * [如何透過 Journey Orchestration 尋求協助](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK – 啟動](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+* [Adobe Experience Platform Mobile SDK – 啟動](https://docs.adobe.com/content/help/zh-Hant/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Adobe Experience Platform 位置服務](https://docs.adobe.com/content/help/zh-Hant/places/using/home.html)
