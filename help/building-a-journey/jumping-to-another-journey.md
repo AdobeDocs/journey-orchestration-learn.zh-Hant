@@ -1,7 +1,7 @@
 ---
 title: 跳到另一段歷程
 description: '瞭解如何將個人從一個歷程推向另一個歷程。 '
-feature: 旅程
+feature: Journeys
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,15 +9,15 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-role: 業務從業人員、管理員
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+role: 業務從業人員，管理員
+exl-id: 185c5c83-5444-4592-b113-732ee561f55a
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
-
 
 # 跳到另一段歷程
 
@@ -32,5 +32,4 @@ ht-degree: 95%
 
 ## 其他資源
 
-* [從一個歷程跳到另一個歷程（產品文件）](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=en#building-journeys)
-
+* [從一個歷程跳到另一個歷程（產品文件）](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=zh-Hant#building-journeys)
