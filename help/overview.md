@@ -2,15 +2,15 @@
 title: Journey Orchestration – 概觀
 description: Journey Orchestration 可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 products: Journey orchestration
-role: 業務從業人員、管理員
-translation-type: tm+mt
-source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: tm+mt
+role: 商業從業人員、管理員
+exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
-
 
 # 概觀
 
@@ -18,7 +18,7 @@ ht-degree: 97%
 
 ## 新增功能
 
-* **[更新描述檔動作](/help/building-a-journey/update-profile-action.md)**
+* **[更新設定檔動作](/help/building-a-journey/update-profile-action.md)**
 * **[跳到另一段歷程](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *瞭解如何將個人從一個歷程推向另一個歷程。*
@@ -73,4 +73,3 @@ ht-degree: 97%
 
 * [Journey Orchestration 協助中心](https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html)
 * [Adobe Experience Platform 教學課程](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/overview.html)
-
