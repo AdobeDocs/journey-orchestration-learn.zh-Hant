@@ -2,7 +2,7 @@
 title: Journey Orchestration – 概觀
 description: Journey Orchestration 可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 products: Journey orchestration
-role: 商業從業人員、管理員
+role: Business Practitioner, Administrator
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 translation-type: ht
 source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829

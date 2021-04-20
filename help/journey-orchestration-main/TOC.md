@@ -9,7 +9,7 @@ tutorials-title: 教學課程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hant/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: 協助中心
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html
-level: 初學者
+level: Beginner
 translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: ht

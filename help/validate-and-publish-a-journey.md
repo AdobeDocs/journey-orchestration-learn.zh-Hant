@@ -1,14 +1,14 @@
 ---
 title: 驗證並發佈歷程
 description: 「瞭解如何使用測試設定檔，在發佈前測試您的旅程。 」
-feature: 旅程
+feature: Journeys
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-role: 業務從業人員、管理員
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

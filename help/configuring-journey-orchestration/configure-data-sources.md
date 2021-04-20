@@ -1,14 +1,14 @@
 ---
 title: 配置資料源以進行AdobeJourney Orchestration
 description: 「瞭解如何設定Experience Platform資料來源、設定外部資料來源，以及在旅程中尋找和使用資料。」
-feature: 資料來源
+feature: Data Sources
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: 管理員
+role: Administrator
 translation-type: tm+mt
 source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt

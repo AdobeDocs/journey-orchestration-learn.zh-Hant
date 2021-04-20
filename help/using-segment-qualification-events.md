@@ -1,14 +1,14 @@
 ---
 title: 使用區段資格事件
 description: 瞭解如何設定區段，以及如何在歷程中設定區段資格事件。
-feature: 區段、事件
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-role: 業務從業人員、管理員
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

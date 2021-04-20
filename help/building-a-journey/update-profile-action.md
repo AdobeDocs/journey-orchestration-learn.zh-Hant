@@ -1,10 +1,10 @@
 ---
 title: 更新設定檔動作
 description: 瞭解如何使用來自事件、資料來源的資訊或使用特定值，以更新現有的 Adobe Experience Platform 設定檔。
-feature: 動作
+feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
-role: 業務從業人員
+role: Business Practitioner
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09

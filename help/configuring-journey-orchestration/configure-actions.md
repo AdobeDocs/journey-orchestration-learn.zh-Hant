@@ -1,14 +1,14 @@
 ---
 title: 配置AdobeJourney Orchestration的操作
 description: 瞭解如何設定Journey Orchestration動作，以及如何在歷程中使用動作。
-feature: 動作
+feature: Actions
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: 管理員
+role: Administrator
 translation-type: tm+mt
 source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt
