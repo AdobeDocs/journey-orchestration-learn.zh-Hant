@@ -1,22 +1,21 @@
 ---
-title: '向 Adobe Experience Platform 報告歷程階段事件 '
-description: 瞭解哪些歷程步驟事件、哪些資料步驟以及如何探索它們。
-feature: Journeys
+title: '向 Adobe Experience Platform 回報歷程步驟事件 '
+description: 了解歷程步驟事件、哪些資料步驟以及如何探索這些步驟。
+feature: 歷程
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 78%
+source-wordcount: '92'
+ht-degree: 82%
 
 ---
-
 
 # 將步驟事件報告至 [!UICONTROL Adobe Experience Platform ]
 
