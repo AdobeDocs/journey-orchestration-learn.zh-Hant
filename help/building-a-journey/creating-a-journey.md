@@ -1,19 +1,18 @@
 ---
 title: 使用 Adobe Journey Orchestration 建立歷程
 description: 「瞭解如何建立新歷程、開始事件、使用協調控制功能來掌控歷程的流程和時機，以及如何使用動作來結合歷程中各節點。」
-feature: Journeys
+feature: 歷程
 topics: Create a journey
 kt: 2789
 thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '110'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
