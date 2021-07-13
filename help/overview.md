@@ -2,26 +2,25 @@
 title: Journey Orchestration – 概觀
 description: Journey Orchestration 可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 products: Journey orchestration
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '209'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '206'
 ht-degree: 100%
 
 ---
 
-# 概觀
+# 概覽
 
 [!UICONTROL Journey Orchestration] 是與 Adobe Experience Platform 整合的應用程式服務。其可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 
-## 新增功能
+## 新功能
 
 * **[更新設定檔動作](/help/building-a-journey/update-profile-action.md)**
 * **[跳到另一段歷程](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
-   *瞭解如何將個人從一個歷程推向另一個歷程。*
+   *了解如何將個人從一段歷程推向另一段歷程。*
 
 ## 員工精選
 
@@ -37,7 +36,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>瞭解 Journey Orchestration 的概念、其所啟用的使用案例類型，以及 Journey Orchestration 運作方式的關鍵要素。</em>
+    <em>了解 Journey Orchestration 的概念，所啟用的使用案例類型，以及 Journey Orchestration 運作方式的關鍵要素。</em>
     <p>
   </td>
   <td>
