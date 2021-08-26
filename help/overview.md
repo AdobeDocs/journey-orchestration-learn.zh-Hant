@@ -1,21 +1,21 @@
 ---
 title: Journey Orchestration – 概觀
-description: Journey Orchestration 可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
+description: Journey Orchestration可讓您使用儲存在事件或資料來源中的內容資料，建立即時協調使用案例
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 62%
 
 ---
 
 # 概覽
 
-[!UICONTROL Journey Orchestration] 是與 Adobe Experience Platform 整合的應用程式服務。其可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
+[!UICONTROL Journey Orchestration] 是與 Adobe Experience Platform 整合的應用程式服務。它可讓您使用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 
-## 新功能
+## 新增功能
 
 * **[更新設定檔動作](/help/building-a-journey/update-profile-action.md)**
 * **[跳到另一段歷程](/help/building-a-journey/jumping-to-another-journey.md)**
@@ -28,11 +28,11 @@ ht-degree: 100%
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="瞭解 Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
+      <img alt="了解 Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>瞭解 Journey Orchestration</strong>
+    <strong>了解 Journey Orchestration</strong>
     </a>
     </div>
     <p>
@@ -49,7 +49,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>瞭解如何建立新歷程、從事件開始、使用協調來控制歷程的流程及時間，以及使用動作來參與歷程中的各個時間點。</em>
+    <em>了解如何建立歷程、從事件開始、使用協調來控制歷程的流程和時間，以及使用動作來參與歷程中的各個時間點。</em>
     <p>
   </td>
   <td>
@@ -70,5 +70,5 @@ ht-degree: 100%
 
 ## 其他資源
 
-* [Journey Orchestration 協助中心](https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform 教學課程](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/overview.html)
+* [Journey Orchestration 協助中心](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=zh-Hant)
+* [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)

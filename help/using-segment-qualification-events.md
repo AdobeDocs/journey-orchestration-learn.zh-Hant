@@ -1,7 +1,7 @@
 ---
 title: 使用區段資格事件
 description: 了解如何設定區段，以及如何在歷程中設定區段資格事件。
-feature: 區段，事件
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
@@ -10,16 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 86%
+source-wordcount: '135'
+ht-degree: 61%
 
 ---
 
 # 使用區段資格事件
 
-區段資格活動可讓您的歷程聆聽 Adobe Experience Platform 區段中設定檔的入口和出口，讓個人得以在歷程中進入或前進。
+區段資格活動可讓您的歷程聆聽Adobe Experience Platform區段中設定檔的入口和出口。 此事件類型可用來讓個人進入歷程或在歷程中前進。
 
 範例使用案例可能是：
 
