@@ -1,23 +1,23 @@
 ---
-title: Journey Orchestration – 概觀
-description: Journey Orchestration可讓您使用儲存在事件或資料來源中的內容資料，建立即時協調使用案例
+title: Journey Orchestration 教學課程 – 概觀
+description: Journey Orchestration 可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
-# 概覽
+# 總覽
 
-[!UICONTROL Journey Orchestration] 是與 Adobe Experience Platform 整合的應用程式服務。它可讓您使用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
+[!UICONTROL Journey Orchestration] 是與 Adobe Experience Platform 整合的應用程式服務。其可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 
 ## 新增功能
 
-* **[更新設定檔動作](/help/building-a-journey/update-profile-action.md)**
+* **[更新設定檔操作](/help/building-a-journey/update-profile-action.md)**
 * **[跳到另一段歷程](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *了解如何將個人從一段歷程推向另一段歷程。*
@@ -49,7 +49,7 @@ ht-degree: 62%
     </a>
     </div>
     <p>
-    <em>了解如何建立歷程、從事件開始、使用協調來控制歷程的流程和時間，以及使用動作來參與歷程中的各個時間點。</em>
+    <em>瞭解如何建立歷程、從事件開始、使用協調來控制歷程的流程及時間，以及使用操作來參與歷程中的各個時間點。</em>
     <p>
   </td>
   <td>
@@ -71,4 +71,4 @@ ht-degree: 62%
 ## 其他資源
 
 * [Journey Orchestration 協助中心](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=zh-Hant)
-* [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+* [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hant)
