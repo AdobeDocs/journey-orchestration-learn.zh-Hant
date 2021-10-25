@@ -11,9 +11,9 @@ activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -30,4 +30,4 @@ ht-degree: 90%
 ## 其他資源
 
 * [Journey Orchestration 協助中心](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=zh-Hant)：
-* [關於 Journey Orchestration 報告r](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=en)
+* [關於 Journey Orchestration 報告r](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=zh-Hant)
