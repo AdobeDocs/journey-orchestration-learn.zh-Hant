@@ -23,7 +23,7 @@ ht-degree: 30%
 
 以下影片說明如何：
 
-* 啟用並使用&#x200B;**[!UICONTROL test mode]**&#x200B;驗證歷程
+* 啟用和使用 **[!UICONTROL test mode]** 驗證歷程的方式
 * 發佈歷程並管理其狀態
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)

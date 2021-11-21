@@ -19,7 +19,7 @@ ht-degree: 55%
 
 # 將步驟事件報告至 [!UICONTROL Adobe Experience Platform ]
 
-[!UICONTROL Journey Orchestration] 自動將歷程績效資料傳送至 [!UICONTROL Adobe Experience Platform]，以便與其他資料結合而進行分析。以下影片說明[!UICONTROL journey step events]的內容，以及在[!UICONTROL Experience Platform]上自動建立的[!UICONTROL data steps]。
+[!UICONTROL Journey Orchestration] 自動將歷程績效資料傳送至 [!UICONTROL Adobe Experience Platform]，以便與其他資料結合而進行分析。以下影片說明 [!UICONTROL journey step events] 是 [!UICONTROL data steps] 會在 [!UICONTROL Experience Platform].
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 

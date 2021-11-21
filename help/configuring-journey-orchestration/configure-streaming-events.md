@@ -1,7 +1,7 @@
 ---
 title: 設定串流事件以供AdobeJourney Orchestration
 description: '"了解如何為 Journey Orchestration 事件設定 XDM 結構描述和資料集，在 Journey Orchestration 中定義事件，以及設定來源系統以串流事件"'
-feature: 資料來源、事件、結構
+feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
@@ -12,19 +12,19 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '251'
 ht-degree: 35%
 
 ---
 
 # 設定串流事件
 
-[!UICONTROL Journey Orchestration] 收聽事件並根據這些事件協調客戶歷程中的最佳後續動作。事件可與下列項目相關：
+[!UICONTROL Journey Orchestration] 收聽事件並根據這些事件協調客戶歷程中的最佳後續動作。 事件可與下列項目相關：
 
 * 個人的直接動作（例如購買產品、造訪商店或放棄線上購物車），或
 * 發生與個人相關的事件（例如，他們達到10,000個忠誠點數）
 
-[!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 會透過傳送至Adobe Experience Platform  [!UICONTROL streaming ingestion]。
+[!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 會透過 [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
@@ -34,19 +34,18 @@ ht-degree: 35%
 >* [如何為體驗事件撰寫XDM結構](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [串流資料擷取](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
->
-若要了解影片中使用的範例，您也應熟悉下列Adobe Experience Platform服務：
+>若要了解影片中使用的範例，您也應熟悉下列Adobe Experience Platform服務：
 >
 >* [Adobe Experience Platform Mobile SDK – 啟動](https://docs.adobe.com/content/help/zh-Hant/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform 位置服務](https://docs.adobe.com/content/help/zh-Hant/places/using/home.html)
 
 
-## 如何配置[!UICONTROL streaming events]
+## 如何配置 [!UICONTROL streaming events]
 
 以下影片說明如何：
 
-* 為[!UICONTROL Journey Orchestration]事件設定XDM結構和資料集
-* 在[!UICONTROL Journey Orchestration]中定義事件
+* 為設定XDM結構和資料集 [!UICONTROL Journey Orchestration] 事件
+* 在中定義事件 [!UICONTROL Journey Orchestration]
 * 配置源系統以流式處理事件
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
