@@ -9,7 +9,7 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 100%
@@ -58,3 +58,4 @@ ht-degree: 100%
 * [如何透過 Journey Orchestration 尋求協助](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK – 啟動](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=zh-Hant)
 * [Adobe Experience Platform 位置服務](https://experienceleague.adobe.com/docs/places/using/home.html?lang=zh-Hant)
+
