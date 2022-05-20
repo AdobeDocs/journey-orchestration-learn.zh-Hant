@@ -1,6 +1,6 @@
 ---
 title: 了解 Journey Orchestration
-description: 「瞭解 Journey Orchestration 的概念、所啟用的使用案例類型，以及 Journey Orchestration 運作方式的關鍵元素。」
+description: 了解 Journey Orchestration 的概念，所啟用的使用案例類型，以及 Journey Orchestration 運作方式的關鍵要素。
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -9,19 +9,19 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
+exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 100%
 
 ---
 
-
 # 瞭解 [!UICONTROL Journey Orchestration]
 
-## [!UICONTROL Journey Orchestration] 簡介
-
 [!UICONTROL Journey Orchestration] 可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
+
+## [!UICONTROL Journey Orchestration] 簡介
 
 [!UICONTROL Journey Orchestration] 是與 Adobe Experience Platform 整合的應用程式服務。其提供智慧型和開放的生態系統，透過任何通道的可擴充、事件導向的參與來啟動所有相關的即時資料，以因應您企業從行銷、營運到服務等需求。[!UICONTROL Journey Orchestration] 可善用 Adobe Experience Platform 及任何外部傳遞系統的任何資料來建立和提供引人入勝的體驗。
 
@@ -58,4 +58,3 @@ ht-degree: 100%
 * [如何透過 Journey Orchestration 尋求協助](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK – 啟動](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=zh-Hant)
 * [Adobe Experience Platform 位置服務](https://experienceleague.adobe.com/docs/places/using/home.html?lang=zh-Hant)
-

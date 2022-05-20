@@ -1,6 +1,6 @@
 ---
-title: 設定資料來源以進行AdobeJourney Orchestration
-description: 「了解如何設定Experience Platform資料來源、設定外部資料來源，以及在歷程中尋找和使用資料。」
+title: 配置資料源以進行AdobeJourney Orchestration
+description: 瞭解如何配置Experience Platform資料源、配置外部資料源以及查找和使用旅途中的資料。
 feature: Data Sources
 topics: Data Sources
 kt: 2774
@@ -10,7 +10,7 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 14%
@@ -19,16 +19,16 @@ ht-degree: 14%
 
 # 設定資料來源
 
-[!UICONTROL Journey Orchestration] 可讓您連線至Adobe Experience Platform或其他協力廠商資料來源，以擷取可用於歷程的其他資訊：
+[!UICONTROL Journey Orchestration] 允許您連接到Adobe Experience Platform或其他第三方資料源，以檢索可用於以下目的的行程中的其他資訊：
 
-* 條件的定義
-* 動作中的參數和個人化資料
+* 條件定義
+* 操作中的參數和個性化資料
 * [!UICONTROL Custom timer] 定義
-* 自訂時區定義
+* 自定義時區定義
 
-如果您歷程的僅運用來自事件裝載的本機資料，則不需要進行此設定。
+如果您的行程僅利用來自事件負載的本地資料，則不需要此配置。
 
-以下影片說明如何：設定Experience Platform資料來源和外部資料來源，以及如何在歷程中尋找和使用資料。
+以下視頻說明了如何：配置Experience Platform資料源和外部資料源，以及如何查找和使用行程中的資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
