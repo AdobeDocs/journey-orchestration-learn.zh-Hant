@@ -10,10 +10,10 @@ doc-type: video
 activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
 1. [設定串流事件](/help/configuring-journey-orchestration/configure-streaming-events.md) - 此設定為必要，因為 [!UICONTROL Journey Orchestration] 設計旨在監聽事件。
 1. [設定資料來源](/help/configuring-journey-orchestration/configure-data-sources.md) - 如果您的歷程僅運用來自事件有效負載的本機資料，則不需要進行此設定。
-1. [設定自訂動作](/help/configuring-journey-orchestration/configure-actions.md)：如果您想要使用來自任何第三方提供者的服務，而透過具有 JSON 格式化有效負載的 [!DNL REST API] 呼叫，則此為必要項目。
+1. [配置自定義操作](/help/configuring-journey-orchestration/configure-actions.md):如果希望使用任何第三方提供商提供的服務，則需要通過 [!DNL REST API] 具有JSON格式的負載
 
 >[!NOTE]
 >
@@ -56,5 +56,5 @@ ht-degree: 100%
 * [Journey Orchestration 協助中心](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=zh-Hant)
 * [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hant)
 * [如何透過 Journey Orchestration 尋求協助](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK – 啟動](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=zh-Hant)
+* [Adobe Experience Platform Mobile SDK – 啟動](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
 * [Adobe Experience Platform 位置服務](https://experienceleague.adobe.com/docs/places/using/home.html?lang=zh-Hant)

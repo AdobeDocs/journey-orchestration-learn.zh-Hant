@@ -1,6 +1,6 @@
 ---
 title: 跳到另一段歷程
-description: '了解如何將個人從一段歷程推向另一段歷程。 '
+description: 瞭解如何使用跳轉活動將客戶從一個行程轉移到另一個行程。
 feature: Journeys
 topics: activity
 kt: 6695
@@ -11,24 +11,17 @@ activity: use
 team: PM
 role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 跳到另一段歷程
 
-了解如何將個人從一段歷程推向另一段歷程。
-
-「跳轉」操作活動可讓您：
-
-* 將複雜歷程分割為數個歷程，以簡化極為複雜歷程的設計
-* 依據常見且可重複使用的歷程模式來建立歷程
+瞭解如何使用跳轉活動將客戶從一個行程轉移到另一個行程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
-## 其他資源
-
-* [從一個歷程跳到另一個歷程（產品文件）](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=zh-Hant#building-journeys)
+SF或更多資訊，請訪問 [產品文檔](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=zh-Hant#building-journeys)。

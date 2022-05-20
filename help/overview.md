@@ -1,17 +1,17 @@
 ---
-title: Journey Orchestration 教學課程 – 概觀
+title: Journey Orchestration 教學課程
 description: Journey Orchestration 可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 總覽
+# Journey Orchestration 教學課程
 
 [!UICONTROL Journey Orchestration] 是與 Adobe Experience Platform 整合的應用程式服務。其可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 

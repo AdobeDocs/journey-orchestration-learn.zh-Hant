@@ -10,24 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 建立歷程
 
-以下影片說明如何：
+# 使用 Adobe Journey Orchestration 建立歷程
 
-* 建立新的歷程並從事件開始
-* 使用 [!UICONTROL Orchestration] 控制項來控制歷程的流程及時間
-* 使用動作來參與歷程中的各個時間點。
+瞭解如何建立行程、從事件開始、使用業務流程控制控制行程的流程和時間，以及使用「操作」在行程中的點進行活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
-
-## 其他資源
-
-* [Journey Orchestration 協助中心](https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html)：
-   * [建立歷程](https://docs.adobe.com/content/help/zh-Hant/journeys/using/building-journeys/about-journey-building/journey.html)
