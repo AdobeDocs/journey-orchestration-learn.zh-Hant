@@ -1,6 +1,6 @@
 ---
 title: 為AdobeJourney Orchestration配置流事件
-description: 了解如何為 Journey Orchestration 事件設定 XDM 結構描述和資料集，在 Journey Orchestration 中定義事件，以及設定來源系統以串流事件.
+description: 了解如何為 Journey Orchestration 事件設定 XDM 結構描述和資料集、在 Journey Orchestration 中定義事件，以及設定來源系統以串流事件。
 feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
@@ -36,7 +36,7 @@ ht-degree: 0%
 >
 >要瞭解視頻中使用的示例，您還應熟悉以下Adobe Experience Platform服務：
 >
->* [Adobe Experience Platform移動SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [Adobe Experience Platform移動SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=zh-Hant)
 >* [Adobe Experience Platform 位置服務](https://experienceleague.adobe.com/docs/places/using/home.html?lang=zh-Hant)
 
 
