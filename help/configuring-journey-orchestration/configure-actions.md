@@ -1,6 +1,6 @@
 ---
-title: 配置AdobeJourney Orchestration
-description: 瞭解如何配置Journey Orchestration操作以及如何在旅途中使用該操作。
+title: 設定AdobeJourney Orchestration
+description: 了解如何為Journey Orchestration設定動作，以及如何在歷程中使用動作。
 feature: Actions
 topics: Custom Actions
 kt: 2775
@@ -10,17 +10,17 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 1%
 
 ---
 
 # 設定 [!UICONTROL custom actions]
 
-瞭解如何配置Journey Orchestration操作以及如何在旅途中使用該操作。
+了解如何為Journey Orchestration設定動作，以及如何在歷程中使用動作。
 
->[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12&learn=on)
 
-有關詳細資訊，請參見 [操作](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action.html?lang=en) 產品文檔的一節
+如需詳細資訊，請參閱 [動作](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action.html?lang=en) 產品檔案的一節

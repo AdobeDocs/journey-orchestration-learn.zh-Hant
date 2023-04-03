@@ -10,7 +10,7 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 29%
@@ -48,6 +48,6 @@ ht-degree: 29%
 * 在中定義事件 [!UICONTROL Journey Orchestration]
 * 配置源系統以流式處理事件
 
->[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12&learn=on)
 
 如需詳細資訊，請參閱 [關於事件](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) 產品檔案的區段。

@@ -1,6 +1,6 @@
 ---
 title: 使用區段資格事件
-description: 瞭解在何處配置網段以及如何在行程中配置網段資格事件。
+description: 了解如何設定區段，以及如何在歷程中設定區段資格事件。
 feature: Segments, Events
 topics: Events
 kt: 5485
@@ -10,16 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '136'
+ht-degree: 48%
 
 ---
 
 # 使用區段資格事件
 
-通過網段資格活動，您可以收聽Adobe Experience Platform網段的資料出入。 此事件類型用於使個人在行程中進入或前進。
+區段資格活動可讓您的歷程聆聽Adobe Experience Platform區段中設定檔的入口和出口。 此事件類型可用來讓個人進入歷程或在歷程中前進。
 
 範例使用案例可能是：
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
 此影片簡要介紹如何設定區段，以及如何在歷程中設定區段資格事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&learn=on)
 
-有關詳細資訊，請參見 [細分資格事件](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en)。
+如需詳細資訊，請參閱 [區段資格事件](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
