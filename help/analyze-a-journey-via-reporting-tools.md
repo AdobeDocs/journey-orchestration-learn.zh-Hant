@@ -10,7 +10,7 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 瞭解如何導覽至您歷程的報告、如何自訂報告的日期範圍，以及如何儲存報告範本以供日後使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12&learn=on)
 
 如需詳細資訊，請參閱[關於 Journey Orchestration 報告](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=zh-Hant)。
