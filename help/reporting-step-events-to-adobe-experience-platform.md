@@ -1,6 +1,6 @@
 ---
 title: 向 Adobe Experience Platform 報告歷程步驟事件
-description: 了解哪些歷程步驟事件和資料步驟，以及如何探索這些步驟。
+description: 瞭解什麼是行程步驟事件和資料步驟，以及如何探索這些步驟。
 feature: Journeys
 topics: Introduction
 kt: 5488
@@ -19,8 +19,8 @@ ht-degree: 20%
 
 # 將步驟事件報告至 [!UICONTROL Adobe Experience Platform ]
 
-了解哪些歷程步驟事件和資料步驟，以及如何探索這些步驟。
+瞭解什麼是行程步驟事件和資料步驟，以及如何探索這些步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&learn=on)
 
-請參閱 [歷程步驟共用概觀](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) 以取得更多資訊。
+請參閱 [行程步驟共用概述](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) 的子菜單。

@@ -1,6 +1,6 @@
 ---
-title: 驗證並發佈歷程
-description: 了解如何使用測試設定檔，在發佈歷程之前先測試歷程。
+title: 驗證並發佈旅程
+description: 瞭解如何使用test配置檔案在發佈之前test行程。
 feature: Journeys
 topics: Test and publish a journey
 kt: 2778
@@ -19,9 +19,9 @@ ht-degree: 7%
 
 # 驗證並發佈歷程
 
-了解如何使用測試設定檔，在發佈歷程之前先測試歷程。
+瞭解如何使用test配置檔案在發佈之前test行程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12&learn=on)
 
-如需詳細資訊，請參閱產品檔案 [測試歷程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
-和 [發佈歷程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)
+有關 [測試旅程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
+和 [發佈旅程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)

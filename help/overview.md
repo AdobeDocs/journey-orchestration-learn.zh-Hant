@@ -6,12 +6,12 @@ role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '207'
+ht-degree: 98%
 
 ---
 
-# Journey Orchestration教學課程
+# Journey Orchestration教程
 
 [!UICONTROL Journey Orchestration] 是與 Adobe Experience Platform 整合的應用程式服務。其可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 <div id="staff-picks-section">
 
-## 員工精選
+## 工作人員選擇
 
 <table>
 <tr>

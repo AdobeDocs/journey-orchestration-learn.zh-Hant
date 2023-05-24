@@ -1,6 +1,6 @@
 ---
-title: 設定AdobeJourney Orchestration
-description: 了解如何為Journey Orchestration設定動作，以及如何在歷程中使用動作。
+title: 配置AdobeJourney Orchestration
+description: 瞭解如何配置Journey Orchestration操作以及如何在旅途中使用該操作。
 feature: Actions
 topics: Custom Actions
 kt: 2775
@@ -19,8 +19,8 @@ ht-degree: 1%
 
 # 設定 [!UICONTROL custom actions]
 
-了解如何為Journey Orchestration設定動作，以及如何在歷程中使用動作。
+瞭解如何配置Journey Orchestration操作以及如何在旅途中使用該操作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12&learn=on)
 
-如需詳細資訊，請參閱 [動作](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action.html?lang=en) 產品檔案的一節
+有關詳細資訊，請參見 [操作](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action.html?lang=en) 產品文檔的一節
