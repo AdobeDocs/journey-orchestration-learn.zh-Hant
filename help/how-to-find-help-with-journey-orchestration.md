@@ -1,6 +1,6 @@
 ---
 title: 如何透過 Journey Orchestration 尋求協助
-description: 瞭解您可以在何處快速找到問題的答案 [!UICONTROL Journey Orchestration]、如何聯繫支援人員、在何處記錄支援票證，以及如何向我們提供反饋。
+description: 瞭解您可在何處快速找到相關問題的答案 [!UICONTROL Journey Orchestration]，如何聯絡支援、在何處記錄支援票證，以及如何向我們提供意見反應。
 feature: Overview
 topics: Help and Support
 kt: 4019
@@ -19,6 +19,6 @@ ht-degree: 17%
 
 # 如何使用 [!UICONTROL Journey Orchestration] 尋求協助
 
-瞭解您可以在何處快速找到問題的答案 [!UICONTROL Journey Orchestration]、如何聯繫支援人員、在何處記錄支援票證，以及如何向我們提供反饋。
+瞭解您可在何處快速找到相關問題的答案 [!UICONTROL Journey Orchestration]，如何聯絡支援、在何處記錄支援票證，以及如何向我們提供意見反應。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12&learn=on)

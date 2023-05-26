@@ -11,7 +11,7 @@ ht-degree: 98%
 
 ---
 
-# Journey Orchestration教程
+# Journey Orchestration教學課程
 
 [!UICONTROL Journey Orchestration] 是與 Adobe Experience Platform 整合的應用程式服務。其可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 
