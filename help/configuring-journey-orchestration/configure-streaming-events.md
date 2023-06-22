@@ -3,14 +3,14 @@ title: 設定AdobeJourney Orchestration的串流事件
 description: 了解如何為 Journey Orchestration 事件設定 XDM 結構描述和資料集、在 Journey Orchestration 中定義事件，以及設定來源系統以串流事件。
 feature: Data Sources, Events, Schemas
 topics: Events
-kt: 3731
+jira: KT-3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 30%
@@ -38,7 +38,6 @@ ht-degree: 30%
 >
 >* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=zh-Hant)
 >* [Adobe Experience Platform 位置服務](https://experienceleague.adobe.com/docs/places/using/home.html?lang=zh-Hant)
-
 
 ## 如何設定 [!UICONTROL streaming events]
 
