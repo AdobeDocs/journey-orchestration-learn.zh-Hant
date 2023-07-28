@@ -2,9 +2,10 @@
 title: Journey Orchestration 教學課程 – 概觀
 description: Journey Orchestration 可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
 products: Journey orchestration
+feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
+source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 98%
@@ -21,7 +22,7 @@ ht-degree: 98%
 
 * **[更新設定檔操作](/help/building-a-journey/update-profile-action.md)**
 * **[跳到另一段歷程](/help/building-a-journey/jumping-to-another-journey.md)**
-   *了解如何將個人從一段歷程推向另一段歷程。*
+  *了解如何將個人從一段歷程推向另一段歷程。*
 
 </div>
 
