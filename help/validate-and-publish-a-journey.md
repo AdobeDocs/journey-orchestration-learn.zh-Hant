@@ -1,6 +1,6 @@
 ---
-title: 驗證和發佈歷程
-description: 瞭解如何使用測試設定檔，在發佈歷程之前測試歷程。
+title: 驗證並發佈歷程
+description: 瞭解如何使用測試設定檔，在發佈之前測試您的歷程。
 feature: Journeys
 topics: Test and publish a journey
 jira: KT-2778
@@ -19,9 +19,9 @@ ht-degree: 7%
 
 # 驗證並發佈歷程
 
-瞭解如何使用測試設定檔，在發佈歷程之前測試歷程。
+瞭解如何使用測試設定檔，在發佈之前測試您的歷程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12&learn=on)
 
-請參閱產品檔案，瞭解更多關於 [測試歷程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
+請參閱產品檔案，深入瞭解 [測試歷程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
 和 [發佈歷程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)

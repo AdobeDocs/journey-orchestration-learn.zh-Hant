@@ -1,6 +1,6 @@
 ---
 title: 使用區段資格事件
-description: 瞭解在何處設定區段及如何在歷程中設定區段資格事件。
+description: 瞭解在何處設定區段，以及如何設定歷程中的區段資格事件。
 feature: Segments, Events
 topics: Events
 jira: KT-5485

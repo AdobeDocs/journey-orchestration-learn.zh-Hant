@@ -19,19 +19,19 @@ ht-degree: 30%
 
 # 設定串流事件
 
-[!UICONTROL Journey Orchestration] 聆聽事件，並根據這些事件在客戶歷程中協調最佳的後續行動。 事件可能與：
+[!UICONTROL Journey Orchestration] 會聽取事件，並根據這些事件在客戶歷程中協調最佳的後續動作。 事件可能與：
 
-* 個人的直接行為（例如，他們購買產品、造訪商店或放棄線上購物車），或
-* 與個人相關的事件發生（例如，他們達到10,000點忠誠點數）
+* 個人的直接動作（例如，他們購買產品、造訪商店或放棄線上購物車），或
+* 已發生的事件與個人有關聯（例如，他們達到10,000點忠誠點數）
 
-[!UICONTROL Journey Orchestration] 事件為 [!UICONTROL XDM experience events] 會透過以下方式傳送至Adobe Experience Platform： [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] 事件為 [!UICONTROL XDM experience events] 會透過傳送至Adobe Experience Platform的 [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
 >您必須熟悉：
 >
 >* [體驗資料模型(XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=zh-Hant)
->* [如何為體驗事件撰寫XDM結構描述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=zh-Hant)
+>* [如何為體驗事件組成XDM結構描述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=zh-Hant)
 >* [串流資料擷取](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en)
 >
 >若要瞭解影片中使用的範例，您也應該熟悉下列Adobe Experience Platform服務：
@@ -43,10 +43,10 @@ ht-degree: 30%
 
 以下影片說明如何：
 
-* 設定XDM結構描述和資料集，用於 [!UICONTROL Journey Orchestration] 事件
+* 設定XDM結構描述和資料集 [!UICONTROL Journey Orchestration] 事件
 * 在中定義事件 [!UICONTROL Journey Orchestration]
 * 設定來源系統以串流事件
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12&learn=on)
 
-如需詳細資訊，請參閱 [關於事件](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) 區段。
+如需詳細資訊，請參閱 [關於事件](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) 區段建立模型。

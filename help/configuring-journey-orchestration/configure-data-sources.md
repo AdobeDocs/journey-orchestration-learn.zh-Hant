@@ -23,4 +23,4 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12&learn=on)
 
-如需詳細資訊，請參閱 [關於資料來源](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) 區段。
+如需詳細資訊，請參閱 [關於資料來源](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) 區段建立關聯。
