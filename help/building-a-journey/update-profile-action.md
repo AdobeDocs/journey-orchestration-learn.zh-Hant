@@ -8,10 +8,10 @@ role: User
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09
-source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 97%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 瞭解如何使用來自事件、資料來源的資訊或使用特定值，以更新現有的 Adobe Experience Platform 設定檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/332112?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332112?learn=on){transcript=true}
 
 ## 其他資源
 
