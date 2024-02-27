@@ -5,9 +5,9 @@ products: Journey orchestration
 feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
+source-git-commit: fd7c346c9159ec2646a0887781574a32bba08a7a
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '174'
 ht-degree: 98%
 
 ---
@@ -15,16 +15,6 @@ ht-degree: 98%
 # Journey Orchestration教學課程
 
 [!UICONTROL Journey Orchestration] 是與 Adobe Experience Platform 整合的應用程式服務。其可讓您善用儲存在事件或資料來源中的情境資料，建立即時協調使用案例。
-
-<div id="whats-new-section">
-
-## 新增功能
-
-* **[更新設定檔操作](/help/building-a-journey/update-profile-action.md)**
-* **[跳到另一段歷程](/help/building-a-journey/jumping-to-another-journey.md)**
-  *了解如何將個人從一段歷程推向另一段歷程。*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
