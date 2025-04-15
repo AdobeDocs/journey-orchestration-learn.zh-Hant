@@ -1,11 +1,10 @@
 ---
-source-git-commit: 33b77dc26229120fce22909b7085b235e2ff59cc
+source-git-commit: 5f7dec705f73509e0dd4c8eec2c34398ed1698b4
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '10'
+source-wordcount: '14'
 ht-degree: 0%
 
 ---
 # journey-orchestration-learn.en
 
-Tech Marketing repo for Journey Orchestration影片和教學課程
+此存放庫已封存。 內容已過期。 請參閱journey-orchestion.en產品檔案。
